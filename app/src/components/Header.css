@@ -1,0 +1,21 @@
+header {
+    background-color: #3b88fd;
+    padding: 10px 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  nav a {
+    color: white;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 4px;
+  }
+  
+  nav a.active {
+    background-color: #0b5ed7;
+  }

@@ -1,0 +1,14 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  ul li::before {
+    content: "🌐 ";
+    margin-right: 5px;
+  }
+  
+  section h3 {
+    margin-top: 10px;
+  }
+  
